@@ -1,24 +1,2 @@
-# wordfinder-vue
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## WordFinder-vue
+This repository has been combined with the other two word finder related repositories. The new single repository is [WordFinderApp](https://github.com/hoyski/WordFinderApp)
